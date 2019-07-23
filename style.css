@@ -9,8 +9,51 @@ header {
     text-align: center;
 }
 
+footer {
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h2 {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    color: whitesmoke;
+}
+
 h3 {
     font-family: 'Unica One', cursive;
     font-size: 26px;
     color: whitesmoke;
+    text-align: center;
+}
+
+p {
+    font-family: 'Dosis', sans-serif;
+    font-size: 16px;
+    color: whitesmoke;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.size {
+    height: 200px;
+    width: auto;
+}
+
+.watch_container {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 13px;
+    border-color: #FDEFA6;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 50px;
+    margin-left: 50px;
 }
