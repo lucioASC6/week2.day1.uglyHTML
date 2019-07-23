@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(53, 53, 53);
+}
+
+header {
+    font-family: 'Tangerine', cursive;
+    font-size: 72px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+h3 {
+    font-family: 'Unica One', cursive;
+    font-size: 26px;
+    color: whitesmoke;
+}
